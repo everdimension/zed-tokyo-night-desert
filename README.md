@@ -1,4 +1,4 @@
-# Tokyo Night Desert Storm
+# Tokyo Night Gold
 
 A [Zed Editor](https://zed.dev) Theme
 
